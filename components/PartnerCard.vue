@@ -5,8 +5,8 @@
     :title="partner.name"
   >
     <a :href="partner.url" target="_blank" class="db w-100 h-100 link hide-child">
-      <div class="f7 white w-100 h-100 pa3 bg-blue absolute top-0 left-0 child">
-        <span class="f5 dib mb3">{{partner.name}}</span>
+      <div class="f7 white w-100 h-100 pa2 bg-blue absolute top-0 left-0 child">
+        <div class="f5 mb3 tc">{{partner.name}}</div>
         {{partner.description}}
       </div>
     </a>

@@ -1,6 +1,6 @@
 <template>
   <article
-    class="w-100 h5 mb3 bg-white relative cover bg-center"
+    class="w-100 h5 mb5 bg-white relative cover bg-center"
     v-bind:style="{backgroundImage: `url(${project.image})`}"
     :title="project.name"
   >
@@ -34,7 +34,7 @@ a h3 {
 }
 @media screen and (min-width: 480px) {
   article {
-    width: calc((100%/2) - 10px);
+    width: calc(45% - 10px);
   }
   article:nth-child(2n) {
     margin-right: 0;
