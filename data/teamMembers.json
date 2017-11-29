@@ -1,5 +1,12 @@
 [
   {
+    "name": "Jérémy",
+    "description": "Dev back",
+    "image": "/profile/jeremy.jpg",
+    "github": "https://github.com/limace10",
+    "twitter": "https://twitter.com/Limace_"
+  },
+  {
     "name": "Capet",
     "description": "Business manager",
     "image": "/profile/capet.jpg",
@@ -37,13 +44,6 @@
     "image": "/profile/pouley.jpg",
     "github": "https://github.com/Pouleyy",
     "twitter": "https://twitter.com/Pouleyyy"
-  },
-  {
-    "name": "Jérémy",
-    "description": "Dev back",
-    "image": "/profile/jeremy.jpg",
-    "github": "https://github.com/limace10",
-    "twitter": "https://twitter.com/Limace_"
   },
   {
     "name": "SushiFu",
